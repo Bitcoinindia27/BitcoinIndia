@@ -1,0 +1,9 @@
+Building BitcoinIndia
+
+See doc/readme-qt.rst for instructions on building BitcoinIndia-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinIndia.
+
+See doc/build-*.txt for instructions on building bitcoinindiad,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinIndia.
